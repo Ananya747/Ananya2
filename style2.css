@@ -1,0 +1,25 @@
+h1{
+	text-align: center;
+	text-shadow: 500px yellow;
+    background-repeat: repeat-x;
+    background-origin: content-box;
+    border: groove 50px blue;
+    text-decoration: underline;
+    text-transform: capitalize;
+    color: #02fcf4;
+}
+h2{
+  text-align: center;
+  text-transform: uppercase;
+  border: double 10px white;
+  color: #fff;
+}
+body{
+	background-image: url("dark-wallpaper.jpg");
+	background-image: 1200px 1200px;
+	background-attachment: scroll;
+	background-position: top;
+}
+a{
+	color: yellow;
+}
